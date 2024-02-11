@@ -52,13 +52,13 @@ The system's versatility caters to a wide range of applications, from research t
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/aditya-patil-00/Multiple-PDF-chat
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Multiple-PDF-chat
 ```
 
 Install dependencies
